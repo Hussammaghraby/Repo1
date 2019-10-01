@@ -1,0 +1,10 @@
+ Volume in drive C is SOE
+ Volume Serial Number is 0EFF-4391
+
+ Directory of C:\MyProject
+
+10/01/2019  05:52 AM    <DIR>          .
+10/01/2019  05:52 AM    <DIR>          ..
+10/01/2019  05:52 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  163,403,509,760 bytes free
